@@ -9,6 +9,6 @@ function addy(x,y) {
 
 addy();
 
-if (x=y){
+if (x==y){
     alert ("test");
 }
